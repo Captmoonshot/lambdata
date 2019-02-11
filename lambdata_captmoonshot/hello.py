@@ -1,11 +1,6 @@
-"""
-lambdata - a Data Science Helper
-"""
-import hello
-
 import numpy as np
 import pandas as pd
-
+import hello.py
 
 VERSION = 0
 
@@ -13,4 +8,5 @@ ONES = np.ones(100)
 ONES_DF = pd.DataFrame(ONES)
 
 
-print(ONES_DF.head())
+ONES_DF.head()
+
