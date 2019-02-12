@@ -1,7 +1,7 @@
 """
 lambdata - a Data Science Helper
 """
-import hello
+
 
 import numpy as np
 import pandas as pd
