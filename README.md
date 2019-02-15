@@ -1,4 +1,4 @@
-# lambdata
+# lambdata-captmoonshot
 Python package with helpful utility functions for Data Science!
 
 ### Lambdata-Captmoonshot contains 2 functionalities
